@@ -248,7 +248,7 @@ var settings = {
       ctx.fillStyle = '#ff5e73';
       ctx.textAlign = 'center';
       ctx.textBaseline = 'middle';
-      ctx.fillText('Geraline Sayangku', canvas.width / 2, canvas.height / 2);
+      ctx.fillText('I LOVE YOU SAYANGKU, GERALINE', canvas.width / 2, canvas.height / 2);
   }
   
   function animate() {
